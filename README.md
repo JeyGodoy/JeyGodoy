@@ -2,7 +2,7 @@
 
 Seja muito bem vindo e sinta-se a vontade.
 
-Aproveita e pega um **café**☕... pra nós dois  ¯\_(ツ)_/¯
+Aproveita e pega um **café**☕... pra dois  ¯\_(ツ)_/¯
 
 🔭 Sou estudante de Análise e Desenvolvimento de Sistemas
 
