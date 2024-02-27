@@ -1,11 +1,11 @@
-# Olá, sou o Jey Godoy 👋
+# HELLO. I'M JEY GODOY 👋
 
-Seja muito bem vindo e sinta-se a vontade.
+🔭 ***Análise e Desenvolvimento de Sistemas***
 
-Aproveita e pega um **café**☕... pra dois  ¯\_(ツ)_/¯
+- ***QA Analyst***
 
-🔭 Sou estudante de ***Análise e Desenvolvimento de Sistemas***
+- ***Back-end*** Development
 
-🌱 Também estudando desenvolvimento ***Back-end*** 
+- ***Low Code*** Development {OutSystems and Mendix}
 
-Mais sobre mim: `npx cardjeygodoy`
+More about me: `npx cardjeygodoy`
